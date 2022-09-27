@@ -1,1 +1,1 @@
-# generator
+# Generator Yeoman for Frontend
