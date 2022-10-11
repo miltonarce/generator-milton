@@ -1,7 +1,7 @@
 {
   "name": "generator-milton",
-  "version": "1.0.1",
-  "description": "Generators for Frontend",
+  "version": "1.0.2",
+  "description": "Generators fornpm publish --access public Frontend",
   "keywords": [
     "yeoman-generator"
   ],
